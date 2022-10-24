@@ -36,3 +36,6 @@ git pull
 
 Listo! Los cambios se han actualizado en tu local.
 
+# Cheat Sheet de los argumentos más utilizados en Git
+
+[Git CheatSheet](https://education.github.com/git-cheat-sheet-education.pdf)
